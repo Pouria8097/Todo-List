@@ -5,14 +5,14 @@
 input{
     padding: 10px;
     border-radius: 10px;
-    border: 5px solid darkcyan;
+    border: 5px solid rgb(109, 105, 105);
     cursor: pointer;
     
 
 }
 
 input:hover{
-    background-color: blanchedalmond;
+    background-color: rgb(237, 236, 234);
 }
 
 
@@ -25,7 +25,8 @@ button{
 
 }
 button:hover{
-    background-color: lime;
+    background-color:#121212;
+    color: #f1f1f1;
     transform: scaleX(1.05)
 }
 ul{
